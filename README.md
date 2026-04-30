@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/ML-Linear%20Regression-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Science-Project-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/your-username/repo-name?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/itz-roshan/car-price-prediction-ml
+?style=for-the-badge"/>
 </p>
 
 ---
@@ -62,7 +63,13 @@ Car price prediction is difficult due to multiple influencing factors.
 ## ⚙️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,matplotlib" />
+   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
